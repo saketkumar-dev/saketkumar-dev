@@ -35,6 +35,16 @@ Hello! I’m **Saket Kumar**, a dedicated Lead Software Developer specializing i
 - Secure electronic health vault for prescriptions and medical records  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.healthezy)
 
+#### Screenshots
+![EasyHealths Screenshot 1](images/easyhealths1.jpeg)
+![EasyHealths Screenshot 2](images/easyhealths2.jpeg)
+![EasyHealths Screenshot 3](images/easyhealths3.jpeg)
+![EasyHealths Screenshot 4](images/easyhealths4.jpeg)
+![EasyHealths Screenshot 5](images/easyhealths5.jpeg)
+![EasyHealths Screenshot 6](images/easyhealths6.jpeg)
+
+
+
 ### EasyHealthsBiz  
 - Healthcare management app for doctors, clinics, hospitals, and labs  
 - Manage appointments and diagnostic services efficiently  
@@ -42,6 +52,15 @@ Hello! I’m **Saket Kumar**, a dedicated Lead Software Developer specializing i
 - Streamlined communication within the EasyHealths ecosystem  
 - Helps improve healthcare operational workflows and patient care coordination  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.easyhealthb2b)
+
+### EasyHealthsBiz Screenshots
+
+![EasyHealthsBiz Screenshot 1](images/easyhealthbiz1.jpeg)
+![EasyHealthsBiz Screenshot 2](images/easyhealthbiz2.jpeg)
+![EasyHealthsBiz Screenshot 3](images/easyhealthbiz3.jpeg)
+![EasyHealthsBiz Screenshot 4](images/easyhealthbiz4.jpeg)
+
+
 
 ### Jiffy by Spencers (formerly Spencers)  
 - Retail and online grocery app by Spencer’s Retail Ltd, rebranded as Jiffy by Spencers  
