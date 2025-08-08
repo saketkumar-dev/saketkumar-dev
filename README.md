@@ -36,7 +36,7 @@ Hello! I’m **Saket Kumar**, a dedicated Lead Software Developer specializing i
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.healthezy)
 
 #### Screenshots
-<img src="images/easyhealths1.jpeg" alt="EasyHealths Screenshot 1" width="400" height="300" />
+<img src="images/easyhealths1.jpeg" alt="EasyHealths Screenshot 1" width="400" />
 ![EasyHealths Screenshot 2](images/easyhealths2.jpeg)
 ![EasyHealths Screenshot 3](images/easyhealths3.jpeg)
 ![EasyHealths Screenshot 4](images/easyhealths4.jpeg)
