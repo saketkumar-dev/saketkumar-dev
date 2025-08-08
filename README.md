@@ -54,11 +54,10 @@ Hello! I’m **Saket Kumar**, a dedicated Lead Software Developer specializing i
 
 ### EasyHealthsBiz Screenshots
 
-![EasyHealthsBiz Screenshot 1](images/easyhealthbiz1.jpeg)
-![EasyHealthsBiz Screenshot 2](images/easyhealthbiz2.jpeg)
-![EasyHealthsBiz Screenshot 3](images/easyhealthbiz3.jpeg)
-![EasyHealthsBiz Screenshot 4](images/easyhealthbiz4.jpeg)
-
+<img src="images/easyhealthbiz1.jpeg" alt="EasyHealthsBiz Screenshot 1" width="400" />
+<img src="images/easyhealthbiz2.jpeg" alt="EasyHealthsBiz Screenshot 2" width="400" />
+<img src="images/easyhealthbiz3.jpeg" alt="EasyHealthsBiz Screenshot 3" width="400" />
+<img src="images/easyhealthbiz4.jpeg" alt="EasyHealthsBiz Screenshot 4" width="400" />
 
 
 ### Jiffy by Spencers (formerly Spencers)  
