@@ -37,12 +37,11 @@ Hello! I’m **Saket Kumar**, a dedicated Lead Software Developer specializing i
 
 #### Screenshots
 <img src="images/easyhealths1.jpeg" alt="EasyHealths Screenshot 1" width="400" />
-![EasyHealths Screenshot 2](images/easyhealths2.jpeg)
-![EasyHealths Screenshot 3](images/easyhealths3.jpeg)
-![EasyHealths Screenshot 4](images/easyhealths4.jpeg)
-![EasyHealths Screenshot 5](images/easyhealths5.jpeg)
-![EasyHealths Screenshot 6](images/easyhealths6.jpeg)
-
+<img src="images/easyhealths2.jpeg" alt="EasyHealths Screenshot 2" width="400" />
+<img src="images/easyhealths3.jpeg" alt="EasyHealths Screenshot 3" width="400" />
+<img src="images/easyhealths4.jpeg" alt="EasyHealths Screenshot 4" width="400" />
+<img src="images/easyhealths5.jpeg" alt="EasyHealths Screenshot 5" width="400" />
+<img src="images/easyhealths6.jpeg" alt="EasyHealths Screenshot 6" width="400" />
 
 
 ### EasyHealthsBiz  
